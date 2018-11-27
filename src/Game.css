@@ -7,3 +7,7 @@
     linear-gradient(90deg, #333 1px, transparent 1px);
 }
 
+.Cell {
+    background: linear-gradient(45deg, chartreuse, blueviolet);
+    position: absolute;
+}
