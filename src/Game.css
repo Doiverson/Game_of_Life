@@ -11,3 +11,7 @@
     background: linear-gradient(45deg, chartreuse, blueviolet);
     position: absolute;
 }
+
+.controls {
+    text-align: center;
+}
